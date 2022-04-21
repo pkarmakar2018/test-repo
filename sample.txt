@@ -4,4 +4,6 @@ Java EE
 Spring framework
 Hibernate
 REST service
+SOAP web service
 Maven
+
